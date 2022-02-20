@@ -2,7 +2,6 @@
 ```python
 stack.push("CSE CSE331s | Data Structures and Algorithms")
 stack.push("Final Project")
-stack.push("Phase 1")
 ```
 ## Background
 In the first phase of this project, we are going to develop a tool that allows the user to check if the XML file is valid, and if it is. He will be able to format it to increase the readability and to be more informative. Furthermore, many languages do not have XML parsers as perfect as JSON parsers, so the user is able to convert the XML file to a JSON file.
